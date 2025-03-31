@@ -23,4 +23,8 @@
     <ProjectReference Include="..\MovieCatalogAPI.DTO\MovieCatalogAPI.DTO.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Uploads\MovieImages\" />
+  </ItemGroup>
+
 </Project>
